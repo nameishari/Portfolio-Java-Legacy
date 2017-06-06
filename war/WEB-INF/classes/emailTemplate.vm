@@ -1,0 +1,39 @@
+<html>
+	<body style="color: #000080;">
+		<h3>Hello ${name},</h3>
+		<p style="font-weight: bold;font-family: 'Times New Roman', Times, serif;font-size: 18px;">
+			I am very glad to hear from you!
+		</p>
+		<h4 style="font-size: 16.5px;margin-top: -6px;">
+			What can you expect from me:
+		</h4>
+		<p style="margin-top: -16px;">
+			<ul>
+  				<li>Responsive Web Design.</li>
+  				<li>Enterprise Applications.</li>
+  				<li>Hybrid Mobile Application Development.</li>
+  				<li>Database administration and automation.</li>
+  				<li>Tutoring - <b><i>"If you have knowledge,let others light their candles in it. - Margaret Fuller"</i></b></li>
+			</ul>
+		</p>
+		<p>
+			You can find my resume by <a href="http://h4hari.in/pdfs/Updated%20Resume_Hari%20_Tummala.pdf">clicking here</a>.
+		</p>
+		<p>
+			I am looking forward to work with you &#9786;. For more details you can reply back to this mail.
+		</p>
+<p style="   margin: 0;">
+<b><span style="font-size:10.0pt; color:maroon">Thank you ,</span></b><br>
+<b><span style="font-size:10.0pt; color:#1F497D">Hari Hara Kumar Tummala</span></b><br>
+<b><span style="font-size:10.0pt; color:#1F497D">Application Developer</span></b> <br>
+<b><span style="font-size:10.0pt; color:#4F6228">Cell: +91-996-223-7400 | +91-738-202-7034</span></b><br>
+<b><span style="font-size:10.0pt; color:#4F6228">Email : hariharakumar88@gmail.com</span></b><br>
+<b><span style="font-size:10.0pt; color:#1F497D">Website : www.h4hari.in</span></b><br>
+
+<!-- Start PWA Bottom Award -->
+	<DIV ><A HREF="http://www.popularwebsiteawards.com?URL=h4hari.in" TARGET = _BLANK><IMG SRC = "http://www.popularwebsiteawards.com/images/PWA_Award.png" BORDER = 0 STYLE = "border: 0px; "></A></DIV>
+	<!-- End PWA Top Right Award -->
+	</p>
+	</body>
+
+</html>
