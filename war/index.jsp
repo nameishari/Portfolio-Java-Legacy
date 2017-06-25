@@ -352,14 +352,14 @@
 							<div class="item ">
 								<div class="carousel-content">
 									<div>
-										<p>"Data Science and Data Visualization using Python"</p>
+										<p>"Data Science and Data Visualization using Python."</p>
 									</div>
 								</div>
 							</div>
 							<div class="item">
 								<div class="carousel-content">
 									<div>
-										<p>"Web Application Development using Java"</p>
+										<p>"Web Application Development using Java."</p>
 									</div>
 								</div>
 							</div>
@@ -367,7 +367,7 @@
 							<div class="item">
 								<div class="carousel-content">
 									<div>
-										<p>"Mean Stack Web Development"</p>
+										<p>"Mean Stack Web Development."</p>
 									</div>
 								</div>
 							</div>
@@ -783,7 +783,7 @@
 					Find this project on github <a target="_blank"
 						href="https://github.com/h4hari/Portfolio"
 						class="btn btn-default btn-sm downbtn adjust_btn"
-						style="background-color: #22A39F; color: #fff; border-radius: 10px; margin-left: 10px;"><i
+						style="background-color: #00b386; color: #fff; border-radius: 10px; margin-left: 10px;"><i
 						class="fa fa-code fa-fw"></i> <span class="network-name">Click
 							Me!</span></a>
 				</p>
@@ -1022,22 +1022,22 @@
 
 						<div class="legend legend-right hidden-xs">
 							<div class="item">
-								<h4 style="color: #22A39F; font-style: italic;">Superhero</h4>
+								<h4 style="color: #00b386; font-style: italic;">Superhero</h4>
 							</div>
 							<!-- //.item -->
 
 							<div class="item">
-								<h4 style="color: #22A39F; font-style: italic;">Preety Good</h4>
+								<h4 style="color: #00b386; font-style: italic;">Preety Good</h4>
 							</div>
 							<!-- //.item -->
 
 							<div class="item">
-								<h4 style="color: #22A39F; font-style: italic;">Good</h4>
+								<h4 style="color: #00b386; font-style: italic;">Good</h4>
 							</div>
 							<!-- //.item -->
 
 							<div class="item">
-								<h4 style="color: #22A39F; font-style: italic;">Newbie</h4>
+								<h4 style="color: #00b386; font-style: italic;">Newbie</h4>
 							</div>
 							<!-- //.item -->
 						</div>
@@ -1127,13 +1127,13 @@
 				</div>
 				<div class="col-lg-4 col-lg-offset-2 text-center contactHoverPhone"
 					id="contactHoverPhone" data-toggle="tooltip"
-					data-placement="bottom" style="color: #22A39F;">
+					data-placement="bottom" style="color: #00b386;">
 					<i class="fa fa-phone fa-3x sr-contact"></i>
 					<p>(91)996-223-7400</p>
 				</div>
 				<div class="col-lg-4 text-center contactHover" id="contactHover"
 					data-toggle="tooltip" data-placement="bottom"
-					style="color: #22A39F;">
+					style="color: #00b386;">
 					<i class="fa fa-envelope-o fa-3x sr-contact"></i>
 					<p>hariharakumar88@gmail.com</p>
 
