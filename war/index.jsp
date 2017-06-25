@@ -34,28 +34,31 @@
 <body data-spy="scroll" data-target="#navbar-example">
 
 	<!-- Header -->
-	<header id="top" class="header">
-	<!-- Start PWA Top Right Award -->
-	<DIV STYLE = "position: fixed;top: 0px;right: 0px; width: 100px; height: 100px;z-index:99999; _position:absolute; _top:expression(eval(document.body.scrollTop));"><A HREF="http://www.popularwebsiteawards.com?URL=h4hari.in" TARGET = _BLANK><IMG SRC = "http://www.popularwebsiteawards.com/images/PWA_Side_Award.png" BORDER = 0 STYLE = "border: 0px; "></A></DIV>
+	<header id="top" class="header"> <!-- Start PWA Top Right Award -->
+	<DIV
+		STYLE="position: absolute; top: 0px; right: 0px; width: 100px; height: 100px; z-index: 99999; _position: absolute; _top: expression(eval(document.body.scrollTop));">
+		<A HREF="http://www.popularwebsiteawards.com?URL=h4hari.in"
+			TARGET=_BLANK><IMG
+			SRC="http://www.popularwebsiteawards.com/images/PWA_Side_Award.png"
+			BORDER=0 STYLE="border: 0px;"></A>
+	</DIV>
 	<!-- End PWA Top Right Award -->
-	
+
 	<div class="text-vertical-center ">
 		<h1>I'm Hari Tummala</h1>
-		<h3 class="white">Application Developer</h3>
+		<h3 class="white">Application Developer | Data Scientist</h3>
 		<hr class="intro-divider">
 		<ul class="list-inline intro-social-buttons">
-			<li><a target="_blank"
-				href="https://www.linkedin.com/in/hari-hara-kumar-tummala-24205a79"
+			<li><a target="_blank" href="https://www.linkedin.com/in/h4hari"
 				class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i>
 					<span class="network-name">Linkedin</span></a></li>
 			<li><a target="_blank"
 				href="https://www.facebook.com/harakumar.smile"
 				class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i>
 					<span class="network-name">Facebook</span></a></li>
-			<li><a target="_blank"
-				href="https://twitter.com/HariHhk"
-				class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i>
-					<span class="network-name">Twitter</span></a></li>
+			<li><a target="_blank" href="https://github.com/h4hari"
+				class="btn btn-default btn-lg"><i class="fa fa-code fa-fw"></i>
+					<span class="network-name">GitHub</span></a></li>
 		</ul>
 		<a href="#profile" class="scroll-down"> <span
 			class="glyphicon glyphicon-chevron-down scroll-down-glyphicon"></span>
@@ -90,20 +93,22 @@
 	<div class="background-white">
 		<div id="profile" class="container">
 			<h2>Profile</h2>
-			<p class="lead">I&#039;m a Interactive Application Developer</p>
+			<p class="lead">I&#039;m a Tech enthusiastic with self learning
+				ability. Having fun and learning everyday. Love for the Programming
+				is my motivation.</p>
 
 			<hr />
 
 			<div class="row">
 				<div class="col-md-4">
 					<h3 style="text-align: left" class="adjust_text">About me</h3>
-					<p style="text-align: left" class="adjust_text">I am an java
-						application developer. I am a programmer with good knowledge on
-						Java based frameworks. I love spending time on optimizing web,
-						mobile and desktop applications. Also I like working in a team,
-						you'll learn faster and more. I love continuous Learning and I
-						also stand for quality. As the saying goes: 'Known is a drop!
-						Unkown is an ocean!'</p>
+					<p style="text-align: left" class="adjust_text">I am an
+						Application Developer, also a Data Scientist. I am a programmer
+						with good knowledge on cutting edge technologies. I love spending
+						time on optimizing web, mobile and desktop applications. Also I
+						like working in a team, you'll learn faster and more. I love
+						continuous Learning and I also stand for quality. As the saying
+						goes: 'Known is a drop! Unkown is an ocean!'</p>
 				</div>
 				<div class="col-md-4 text-center ">
 					<img class="styledimg" src="img/hari.jpg" alt="Hari Hara Kumar"
@@ -168,6 +173,60 @@
 
 		<hr />
 
+		<h3 style="text-align: left" class="adjust_texting">Careers</h3>
+
+
+		<div class="experiences">
+
+			<div class="experience row">
+				<div class="col-md-4">
+					<h4 style="text-align: left">Verizon</h4>
+					<p style="text-align: left" class="experience-period">June 2015
+						- Current</p>
+				</div>
+				<div class="col-md-8">
+					<p style="text-align: left">
+						<strong>Fulltime - Software Engineer (Java)</strong> <span
+							class="hidden-phone"> Working on Verizon wireless
+							e-commerce products.</span> <span class="experience-details"> <span
+							class="location"> <span
+								class="glyphicon glyphicon-map-marker"></span> Chennai, India
+						</span> <span class="seperator">|</span> <span class="link"> <span
+								class="glyphicon glyphicon-link"></span> <a
+								href="http://verizon.com" target="_blank">http://verizon.com</a>
+						</span>
+
+
+						</span>
+					</p>
+				</div>
+			</div>
+			<div class="experience row">
+				<div class="col-md-4">
+					<h4 style="text-align: left">Cognizant</h4>
+					<p style="text-align: left" class="experience-period">Oct 2015
+						- June 2015</p>
+				</div>
+				<div class="col-md-8">
+					<p style="text-align: left">
+						<strong>Fulltime - Programmer Analyst (Java)</strong> <span
+							class="hidden-phone"> As a developer at Cognizant I work
+							on web development projects. Using frameworks and technologies
+							such as JSF, Hibernate, Primefaces, Fusion Charts, Ajax, Apache
+							POI, Jquery and more.</span> <span class="experience-details"> <span
+							class="location"> <span
+								class="glyphicon glyphicon-map-marker"></span> Chennai, India
+						</span> <span class="seperator">|</span> <span class="link"> <span
+								class="glyphicon glyphicon-link"></span> <a
+								href="http://cognizant.com" target="_blank">http://cognizant.com</a>
+						</span>
+
+
+						</span>
+					</p>
+				</div>
+			</div>
+		</div>
 		<h3 style="text-align: left" class="adjust_texting">Educations</h3>
 
 
@@ -243,8 +302,8 @@
 			<div class="experience row">
 				<div class="col-md-4">
 					<h4 style="text-align: left">RK Junior College</h4>
-					<p style="text-align: left" class="experience-period">Mar 2011
-						- Mar 2009</p>
+					<p style="text-align: left" class="experience-period">Mar 2009
+						- Mar 2011</p>
 				</div>
 				<div class="col-md-8">
 					<p style="text-align: left">
@@ -264,42 +323,6 @@
 
 		</div>
 
-
-
-		<hr />
-
-		<h3 style="text-align: left" class="adjust_texting">Careers</h3>
-
-
-		<div class="experiences">
-
-
-			<div class="experience row">
-				<div class="col-md-4">
-					<h4 style="text-align: left">Cognizant</h4>
-					<p style="text-align: left" class="experience-period">Oct 2015
-						- Current</p>
-				</div>
-				<div class="col-md-8">
-					<p style="text-align: left">
-						<strong>Fulltime - Web Developer (Java)</strong> <span
-							class="hidden-phone"> As a develoer at Cognizant I work on
-							web development projects. Using frameworks and technologies such
-							as JSF, Hibernate, Primefaces, Fusion Charts, Ajax, Apache POI,
-							Jquery and more.</span> <span class="experience-details"> <span
-							class="location"> <span
-								class="glyphicon glyphicon-map-marker"></span> Chennai, India
-						</span> <span class="seperator">|</span> <span class="link"> <span
-								class="glyphicon glyphicon-link"></span> <a
-								href="http://cognizant.com" target="_blank">http://cognizant.com</a>
-						</span>
-
-
-						</span>
-					</p>
-				</div>
-			</div>
-		</div>
 	</div>
 	<div class="background-white">
 		<div id="abilities" class="container">
@@ -311,8 +334,74 @@
 
 			<hr />
 
-			<h3>Skills</h3>
+			<h3>Technical Skills</h3>
+			<div id="text-carousel" class="carousel slide" data-ride="carousel">
+				<!-- Wrapper for slides -->
+				<div class="row">
+					<div class="col-xs-12">
 
+						<div class="carousel-inner">
+							<div class="item active">
+								<div class="carousel-content">
+									<div>
+										<p>"Machine Learning and Deep Learning. ChatBots are
+											Future! "</p>
+									</div>
+								</div>
+							</div>
+							<div class="item ">
+								<div class="carousel-content">
+									<div>
+										<p>"Data Science and Data Visualization using Python"</p>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="carousel-content">
+									<div>
+										<p>"Web Application Development using Java"</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="carousel-content">
+									<div>
+										<p>"Mean Stack Web Development"</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="item">
+								<div class="carousel-content">
+									<div>
+										<p>"Front End Development."</p>
+									</div>
+								</div>
+							</div>
+							
+							<div class="item">
+								<div class="carousel-content">
+									<div>
+										<p>"Hybrid Mobile Application Development."</p>
+									</div>
+								</div>
+							</div>
+							
+
+						</div>
+						<ol class="carousel-indicators">
+							<li data-target="#text-carousel" data-slide-to="0" class="active"></li>
+							<li data-target="#text-carousel" data-slide-to="1"></li>
+							<li data-target="#text-carousel" data-slide-to="2"></li>
+							<li data-target="#text-carousel" data-slide-to="3"></li>
+							<li data-target="#text-carousel" data-slide-to="4"></li>
+							<li data-target="#text-carousel" data-slide-to="5"></li>
+						</ol>
+					</div>
+				</div>
+
+			</div>
 			<div class="row">
 
 
@@ -359,6 +448,16 @@
 
 						</span></li>
 						<li><span class="ability-title">CSS(3)</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">LESS & Sass</span> <span
 							class="ability-score"> <span
 								class="glyphicon glyphicon-star filled"></span> <span
 								class="glyphicon glyphicon-star filled"></span> <span
@@ -429,11 +528,16 @@
 
 						</span></li>
 
-					</ul>
-				</div>
-				<div class="col-md-6">
-					<ul class="no-bullets">
-						
+						<li><span class="ability-title">Oracle ATG (11)</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
 						<li><span class="ability-title">Spring Boot</span> <span
 							class="ability-score"> <span
 								class="glyphicon glyphicon-star filled"></span> <span
@@ -455,7 +559,7 @@
 
 
 						</span></li>
-						<li><span class="ability-title">Angular 2</span> <span
+						<li><span class="ability-title">Angular 4</span> <span
 							class="ability-score"> <span
 								class="glyphicon glyphicon-star filled"></span> <span
 								class="glyphicon glyphicon-star filled"></span> <span
@@ -476,6 +580,20 @@
 
 
 						</span></li>
+						<li><span class="ability-title">AJAX</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<ul class="no-bullets">
 						<li><span class="ability-title">SQL</span> <span
 							class="ability-score"> <span
 								class="glyphicon glyphicon-star filled"></span> <span
@@ -496,36 +614,153 @@
 
 
 						</span></li>
-						<li><span class="ability-title">Python Programming Language</span> <span
-							class="ability-score"> <span
-								class="glyphicon glyphicon-star filled"></span> <span
-								class="glyphicon glyphicon-star filled"></span> <span
-								class="glyphicon glyphicon-star filled"></span> <span
-								class="glyphicon glyphicon-star "></span> <span
-								class="glyphicon glyphicon-star "></span>
-
-
-						</span></li>
-						<li><span class="ability-title">AJAX</span> <span
-							class="ability-score"> <span
-								class="glyphicon glyphicon-star filled"></span> <span
-								class="glyphicon glyphicon-star filled"></span> <span
-								class="glyphicon glyphicon-star filled"></span> <span
-								class="glyphicon glyphicon-star "></span> <span
-								class="glyphicon glyphicon-star "></span>
-
-
-						</span></li>
 						<li><span class="ability-title">Apache POI</span> <span
 							class="ability-score"> <span
 								class="glyphicon glyphicon-star filled"></span> <span
 								class="glyphicon glyphicon-star filled"></span> <span
 								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">Python</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
 								class="glyphicon glyphicon-star "></span> <span
 								class="glyphicon glyphicon-star "></span>
 
 
 						</span></li>
+						<li><span class="ability-title">NumPy & Pandas</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">MatplotLib & Seaborn</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">Plotly & Cufflinks</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">Ruby</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">PHP</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">Node JS & Express JS</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+
+						<li><span class="ability-title">Meteor JS</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+						<li><span class="ability-title">Mongo DB</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+
+						<li><span class="ability-title">PostgreSQL</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+
+						<li><span class="ability-title">Couch DB</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+
+						<li><span class="ability-title">Redis - The Cache
+								Database</span> <span class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+
+						<li><span class="ability-title">Grunt and Gulp</span> <span
+							class="ability-score"> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star filled"></span> <span
+								class="glyphicon glyphicon-star "></span> <span
+								class="glyphicon glyphicon-star "></span>
+
+
+						</span></li>
+
+
 						<li><span class="ability-title">Pl/SQL</span> <span
 							class="ability-score"> <span
 								class="glyphicon glyphicon-star filled"></span> <span
@@ -544,8 +779,14 @@
 
 			</div>
 			<div class="text-center project-referal">
-				<p>This project is build on a BootStrap framework and a bit of
-					Angular Stuff!!.</p>
+				<p>
+					Find this project on github <a target="_blank"
+						href="https://github.com/h4hari/Portfolio"
+						class="btn btn-default btn-sm downbtn adjust_btn"
+						style="background-color: #22A39F; color: #fff; border-radius: 10px; margin-left: 10px;"><i
+						class="fa fa-code fa-fw"></i> <span class="network-name">Click
+							Me!</span></a>
+				</p>
 			</div>
 
 			<hr />
@@ -944,7 +1185,9 @@
 			</div>
 		</div>
 	</div>
-
+	<div class="background-white"  style="text-align: center;padding: 10px;font-family: 'Palatino Linotype', Book Antiqua', Palatino, serif;">
+		<p>Copyright &copy; 2016 - <%=thisYear%>. h4hari</p>
+	</div>
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery-ui.js"></script>
 	<script src="js/scrollreveal.min.js"></script>
@@ -985,10 +1228,8 @@
 				}
 			});
 
-
 		});
 	</script>
-
 </body>
 
 </html>
