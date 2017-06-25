@@ -146,7 +146,7 @@ body {
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover,
 	.navbar-default .navbar-nav>.active>a:focus {
-	background: #22A39F;
+	background: #00b386;
 	color: #FFFFFF;
 }
 
@@ -167,7 +167,7 @@ body {
 }
 
 .btn.btn-default.btn-lg.downbtn {
-	background-color: #22A39F;
+	background-color: #00b386;
 	color: #fff;
 }
 
@@ -385,7 +385,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, strong, b {
 
 h2, h3 {
 	font-weight: 300;
-	color: #22A39F;
+	color: #00b386;
 }
 
 h3 {
@@ -481,7 +481,7 @@ hr.small {
 }
 
 #experiences .experience .experience-details * {
-	color: #22A39F;
+	color: #00b386;
 }
 
 #experiences .experience .experience-details .seperator {
@@ -529,7 +529,7 @@ hr.small {
 }
 
 #abilities ul>li .ability-score .glyphicon.filled {
-	color: #22A39F;
+	color: #00b386;
 }
 
 #abilities ul>li:hover .ability-score .glyphicon {
@@ -795,8 +795,8 @@ footer {
 	left: 0;
 	width: 100%;
 	height: 20%;
-	/*    color: #22A39F !important;*/
-	background-color: #22A39F;
+	/*    color: #00b386 !important;*/
+	background-color: #00b386;
 }
 
 .column-chart>.chart>.item>.bar>.item-progress>.title {
@@ -864,8 +864,8 @@ footer {
 
 .btn-xl {
 	color: #fff;
-	background-color: #00bfff;
-	border-color: #00bfff;
+	background-color: #00b386;
+	border-color: #00b386;
 	font-family: Montserrat, " Helvetica Neue ", Helvetica, Arial,
 		sans-serif;
 	text-transform: uppercase;
@@ -876,7 +876,7 @@ footer {
 .btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open
     .dropdown-toggle.btn-xl {
 	color: #fff;
-	background-color: #22A39F;
+	background-color: #00b386;
 	border-color: #00bfff;
 }
 
@@ -885,7 +885,7 @@ footer {
 }
 
 .btn.btn-default.btn-sm.downbtn {
-    background-color: #22A39F;
+    background-color: #00b386;
     color: #fff;
 }
 
@@ -906,12 +906,12 @@ footer {
 }
 
 .carousel-indicators .active {
-    background-color: #22A39F !important;
+    background-color: #00b386 !important;
 }
 
 .carousel-indicators li {
-    background-color: #22A39F !important;
-    border: 1px solid #22A39F !important;
+    background-color: #00b386 !important;
+    border: 1px solid #00b386 !important;
 }
 
 .carousel-indicators {
